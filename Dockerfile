@@ -1,4 +1,4 @@
-FROM ubuntu:26.10
+FROM ubuntu:26.04
 LABEL maintainer="lotusnoir"
 
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
